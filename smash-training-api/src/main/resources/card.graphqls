@@ -1,0 +1,19 @@
+type Query {
+    cards: [Card]
+}
+
+type Card {
+    id: ID!
+    title: String!
+    description: String
+    stage: String
+    cpu: String
+    enabled: Boolean
+    time: Int
+}
+
+type Mutation {
+    newCard(title: String!, description: String!, stage: String!, enabled: Boolean!, cpu: String!, time: Int!): Card!
+    toggleCard(id: ID!): Card!
+    updateCardTime(id: ID!, time: Int!): Card!
+}

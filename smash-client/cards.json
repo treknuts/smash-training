@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Up Throw",
+      "description": "Up throw -> up air fox at 50%",
+      "stage": "Yoshi's Story.jpg",
+      "enabled": true,
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/skippy.jpg",
+      "time": 120
+    },
+    {
+      "id": 2,
+      "name": "Save State",
+      "description": "Save state X",
+      "stage": "any (you can pick a random stage in game, no logic needed for this)",
+      "enabled": false,
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/4.png",
+      "time": 60
+    },
+    {
+      "id": 3,
+      "name": "Movement praccy",
+      "description": "Movement practice around the stage",
+      "stage": "any",
+      "enabled": true,
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/5.png",
+      "time": 300
+    },
+    {
+      "id": 4,
+      "name": "foobar",
+      "description": "fuck piss shit",
+      "stage": "fuck.jpg",
+      "enabled": "on",
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/5.png",
+      "time": "180"
+    },
+    {
+      "id": 5,
+      "name": "Get Money",
+      "description": "Fuck hella bitches and get money",
+      "stage": "elliotsnudes.webp",
+      "enabled": "on",
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/7.png",
+      "time": "69"
+    },
+    {
+      "id": 6,
+      "name": "Test 2",
+      "description": "doing another pog test on another machine to make sure I'm not a retard",
+      "stage": "test.jpg",
+      "enabled": "on",
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/8.png",
+      "time": "60"
+    },
+    {
+      "id": 7,
+      "name": "Test 3",
+      "description": "last time an extra space was added to the json file",
+      "stage": "foo.jpg",
+      "enabled": "on",
+      "cpu": "https://treknuts-image-bucket.s3.us-east-2.amazonaws.com/smash-training/images/9.png",
+      "time": "420"
+    }
+  ]
+}
